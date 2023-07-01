@@ -1,0 +1,10 @@
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG-UI.csproj.GenerateResource.cache
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG-UI.csproj.CoreCompileInputs.cache
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG_UI.Properties.Resources.resources
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG-UI.csproj.AssemblyReference.cache
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG_UI.Form1.resources
+X:\Visual Studios\repos\CFG-HUB\bin\Debug\CFG-UI.exe.config
+X:\Visual Studios\repos\CFG-HUB\bin\Debug\CFG-UI.exe
+X:\Visual Studios\repos\CFG-HUB\bin\Debug\CFG-UI.pdb
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG-UI.exe
+X:\Visual Studios\repos\CFG-HUB\obj\Debug\CFG-UI.pdb
